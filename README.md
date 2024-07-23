@@ -11,13 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kirpitchnsk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Popular repositories
-
-- [Iron_Programmer_Learning_Materials](https://github.com/Kirpitchnsk/Iron_Programmer_Learning_Materials)
-- [GameStatistic](https://github.com/Kirpitchnsk/GameStatistic)
-- [Solomon](https://github.com/Kirpitchnsk/Solomon)
-- [Snap-Review-iOS-Demo](https://github.com/Kirpitchnsk/Snap-Review-iOS-Demo)
-
 ### Contacts
 
 - ![email](https://img.shields.io/badge/nskrus054@gmail.com-blue)
